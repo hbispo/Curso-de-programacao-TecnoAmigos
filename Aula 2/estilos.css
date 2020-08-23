@@ -1,0 +1,19 @@
+#titulo {
+    color:#0000FF;
+}
+
+#paragrafo {
+    color:#FF0000;
+}
+
+#conteudo {
+    text-align: justify;
+}
+
+#cabecalho, #rodape {
+    text-align: center;
+}
+
+#selfie {
+    width: 400px;
+}
