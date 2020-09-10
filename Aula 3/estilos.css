@@ -1,0 +1,22 @@
+body {
+    background-color: #ffe4c4;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    display: inline-block;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="date"],
+input[type="password"],
+input[type="tel"],
+select {
+    background: none;
+    border: none;
+    border-bottom: 1px solid gray;
+}
